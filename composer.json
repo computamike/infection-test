@@ -1,0 +1,10 @@
+{
+    "name": "mikehingley/infection-test",
+    "authors": [
+        {
+            "name": "Mike Hingley",
+            "email": "mike.hingley@apc-overnight.com"
+        }
+    ],
+    "require": {}
+}
