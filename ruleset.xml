@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="Custom Standard">
+ <description>Custom coding standard</description>
+  <exclude-pattern>*/cmb2/*</exclude-pattern>
+  <rule ref="Zend"/>
+</ruleset>

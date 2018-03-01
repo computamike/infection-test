@@ -1,0 +1,14 @@
+Escaped mutants:
+================
+
+Timeout mutants:
+================
+
+Killed mutants:
+===============
+
+Errors mutants:
+===============
+
+Not covered mutants:
+====================
