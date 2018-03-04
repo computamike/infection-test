@@ -14,8 +14,11 @@ namespace Acme;
  * Perform a sample action.
  * @return [type] [description]
  */
-function do_process_a()
+function do_process_a($input)
 {
-    return 'done';
+    if ($input) {
+        return true;
+    }
+    return false;
 }
 
